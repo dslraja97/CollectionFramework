@@ -1,2 +1,2 @@
 # CollectionFramework
-This repository contains of all the collcetio framework.
+This repository contains of all the collcetion framework.
